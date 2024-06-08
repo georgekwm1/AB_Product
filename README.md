@@ -16,4 +16,4 @@ The **search** section is used to search for items in the database. The **conver
 
 The updated file can be found in the '**/export**' folder where '/' is the root of where the application file ('main.exe') is located
 
-NB: The application is designed to only work with the 'JIREH_PRODUCT_PRICE_LIST.csv' file. In future revisions of the application, it will be designed to work with other files.
+NB: The application is designed to only work with the 'JIREH_PRODUCT_PRICE_LIST.csv' file. In future revisions of the application, it will be designed to work with other files. Also because the the '**main.exe**' is too large, it has been compressed to several zip and rar file formats, to break down the size.
